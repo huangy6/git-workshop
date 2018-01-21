@@ -5,7 +5,7 @@ def fizzbuzz(n):
         if i % 15 == 0:
             print "fizzbuzz"
         elif i % 3 == 0:
-            print "fizz"
+            print "second"
         elif i % 5 == 0:
             print "dead"
         else:
