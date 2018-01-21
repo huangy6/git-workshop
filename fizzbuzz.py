@@ -10,3 +10,6 @@ def fuzzbuzz(n):
             print "buzz"
         else:
             print i
+
+if __name__ == "__main__":
+    fuzzbuzz(100)
